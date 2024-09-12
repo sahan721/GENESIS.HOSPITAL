@@ -1,0 +1,21 @@
+{
+    "name": "Genesis  Health",
+    "short_name": "Genesis  Health",
+    "theme_color": "#00385b",
+    "background_color": "#00385b",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+   
+}
